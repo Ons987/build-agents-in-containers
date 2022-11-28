@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
- name: "ons-win10"
+ name: "onsmaraoub-win10"
   #vmImage: ubuntu-latest
 
 steps:
